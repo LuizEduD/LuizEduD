@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Luiz-Edu" src="https://discord.com/channels/749602205375397938/749602205375397941/999779699377062001">
+
 </div>
   
   
@@ -22,7 +22,7 @@
   <a href = "mailto:LuizEduD01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-eduardo-2ba163230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuizEduD/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -40,5 +40,7 @@ Ser o melhor, não é buscar ultrapassar as outras pessoas, e sim ultrapassar vo
 é buscar inspirações, e até mesmo competições entre você e seus colegas, ou vai dizer que nunca ficou mais motivado quando alguém falou que dúvidava de você?
 A Meta é buscar dar os seus 100% melhorando a cada dia, nunca ficar parado, então se hoje você é um Junior, oque te impede de ser um Pleno? ou até um Senior? ou quem sabe criar sua própria empresa e se tornar um CEO. 
 
-
+fiz uns Gifs aleatórios tentando fazer com que se parecessem comigo! KKKKK 
+ 
+😎Eu: ![GIF01](https://user-images.githubusercontent.com/109651045/180342663-45b269ac-a3ec-41f9-9e88-e6133454e033.gif)🙄Eu 02: ![GifGeral](https://user-images.githubusercontent.com/109651045/180342820-0f6b028f-3afa-4a7a-bdec-5d8e76e2b959.gif)
 
