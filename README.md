@@ -41,6 +41,6 @@ Ser o melhor, não é buscar ultrapassar as outras pessoas, e sim ultrapassar vo
 A Meta é buscar dar os seus 100% melhorando a cada dia, nunca ficar parado, então se hoje você é um Junior, oque te impede de ser um Pleno? ou até um Senior? ou quem sabe criar sua própria empresa e se tornar um CEO. 
 
 fiz uns Gifs aleatórios tentando fazer com que se parecessem comigo! KKKKK 
- 
-😎Eu: ![GIF01](https://user-images.githubusercontent.com/109651045/180342663-45b269ac-a3ec-41f9-9e88-e6133454e033.gif) 🙄Eu 02: ![GifGeral](https://user-images.githubusercontent.com/109651045/180342820-0f6b028f-3afa-4a7a-bdec-5d8e76e2b959.gif)
+
+😎Eu: ![GIF01](https://user-images.githubusercontent.com/109651045/180342663-45b269ac-a3ec-41f9-9e88-e6133454e033.gif)🙄Eu 02: ![GifGeral](https://user-images.githubusercontent.com/109651045/180342820-0f6b028f-3afa-4a7a-bdec-5d8e76e2b959.gif)
 
