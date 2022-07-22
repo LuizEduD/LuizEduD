@@ -42,5 +42,5 @@ A Meta é buscar dar os seus 100% melhorando a cada dia, nunca ficar parado, ent
 
 fiz uns Gifs aleatórios tentando fazer com que se parecessem comigo! KKKKK 
 
-😎Eu: ![GIF01](https://user-images.githubusercontent.com/109651045/180348111-6f6598d2-a902-414e-8a07-5587dcbf6258.gif)     ----------------------------------              🙄Eu 02: ![GifGeral](https://user-images.githubusercontent.com/109651045/180348163-0c31acf6-ca73-47e2-b510-4280cea2ec0f.gif)
+😎Eu: ![GIF01](https://user-images.githubusercontent.com/109651045/180348111-6f6598d2-a902-414e-8a07-5587dcbf6258.gif)              🙄Eu 02: ![GifGeral](https://user-images.githubusercontent.com/109651045/180348163-0c31acf6-ca73-47e2-b510-4280cea2ec0f.gif)
 
