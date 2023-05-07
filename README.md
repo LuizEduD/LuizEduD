@@ -40,7 +40,3 @@ Ser o melhor, não é buscar ultrapassar as outras pessoas, e sim ultrapassar vo
 é buscar inspirações, e até mesmo competições entre você e seus colegas, ou vai dizer que nunca ficou mais motivado quando alguém falou que dúvidava de você?
 A Meta é buscar dar os seus 100% melhorando a cada dia, nunca ficar parado, então se hoje você é um Junior, oque te impede de ser um Pleno? ou até um Senior? ou quem sabe criar sua própria empresa e se tornar um CEO. 
 
-fiz uns Gifs aleatórios tentando fazer com que se parecessem comigo! KKKKK 
-
-😎Eu: ![GIF01](https://user-images.githubusercontent.com/109651045/180348111-6f6598d2-a902-414e-8a07-5587dcbf6258.gif)              🙄Eu 02: ![GifGeral](https://user-images.githubusercontent.com/109651045/180348163-0c31acf6-ca73-47e2-b510-4280cea2ec0f.gif)
-
